@@ -28,3 +28,9 @@ DenseNet201 was initially included but removed due to poor performance.
 - **ResNet50**: Achieved overall AUC of 0.98, and 0.98 for both groups.
 - **EfficientNetB0**: Achieved the highest overall AUC of 0.99 and 0.99 for both groups.
 
+### **Run**
+
+You can run this project either cloning or run the `Detection Task.ipynb` file.
+
+bash
+python visualize_results.py
