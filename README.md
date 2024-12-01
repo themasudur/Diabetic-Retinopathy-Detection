@@ -4,8 +4,10 @@
 
 This repository contains the implementation of a project **Diabetic Retinopathy Detection using Color Fundus Photos**. It is the final project demonstration of CSCE 566 Data Mining course. 
 
+
 ### **Dataset**
 The project used ODIR color fundus image dataset, stored in `.npz` format, which is preprocessed for training, validation, and test.
+
 
 ### **Models**
 - Implemented a pipeline with multiple models:
@@ -16,6 +18,7 @@ The project used ODIR color fundus image dataset, stored in `.npz` format, which
 - Fine-tuned using various optimizers, loss functions, and hyperparameters.
 
 DenseNet201 was initially included but removed due to poor performance.
+
 
 ### **Results**
 - **VGG19**: Achieved overall AUC of 0.98; 0.97 for males and 0.98 for females.
