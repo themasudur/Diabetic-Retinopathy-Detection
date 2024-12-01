@@ -30,7 +30,5 @@ DenseNet201 was initially included but removed due to poor performance.
 
 ### **Run**
 
-You can run this project either cloning or run the [`Detection Task.ipynb`](https://github.com/themasudur/Diabetic-Retinopathy-Detection/blob/main/Detection%20Task.ipynb) file.
+You can run this project either cloning (not updated yet) or run the [`Detection Task.ipynb`](https://github.com/themasudur/Diabetic-Retinopathy-Detection/blob/main/Detection%20Task.ipynb) file.
 
-```bash
-python visualize_results.py
